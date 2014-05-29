@@ -1,0 +1,10 @@
+{
+  "name": "shoelace-ui-textarea",
+  "version": "0.0.1",
+  "description": "Default `textarea` styles",
+  "repository": "https://github.com/shoelace-ui/textarea.git",
+  "keywords": ["shoelace", "text", "textarea"],
+  "author": "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
