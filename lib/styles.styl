@@ -1,4 +1,10 @@
 /**
+ * Module dependencies
+ */
+
+@require 'shoelace-ui-input'
+
+/**
  * Apply `textarea` default styles.
  *
  * 1. Remove default vertical scrollbar in IE 8/9.
@@ -8,3 +14,4 @@
 textarea
   overflow auto      // 1
   vertical-align top // 2
+  @extend $input--control
