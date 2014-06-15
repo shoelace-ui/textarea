@@ -5,5 +5,5 @@ Default `textarea` styles.
 ## Usage
 
 ```stylus
-@require 'textarea'
+@require 'shoelace-ui-textarea'
 ```

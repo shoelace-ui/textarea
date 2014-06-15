@@ -6,5 +6,7 @@
   "keywords": ["shoelace", "text", "textarea"],
   "author": "Michael Andrew Vanasse <mail@mndvns.com>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "shoelace-ui-input": "git+https://github.com/shoelace-ui/input.git"
+  }
 }
