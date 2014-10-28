@@ -1,12 +1,23 @@
 {
   "name": "shoelace-ui-textarea",
-  "version": "0.0.1",
-  "description": "Default `textarea` styles",
-  "repository": "https://github.com/shoelace-ui/textarea.git",
-  "keywords": ["shoelace", "text", "textarea"],
+  "version": "0.1.0",
+  "description": "Default textarea styles",
   "author": "Michael Andrew Vanasse <mail@mndvns.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shoelace-ui/textarea"
+  },
+  "homepage": "https://github.com/shoelace-ui/textarea",
+  "keywords": [
+    "shoelace",
+    "text",
+    "textarea"
+  ],
   "dependencies": {
-    "shoelace-ui-input": "git+https://github.com/shoelace-ui/input.git"
+    "shoelace-ui-input": "^0.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/shoelace-ui/textarea/issues"
   }
 }

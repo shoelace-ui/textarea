@@ -1,6 +1,6 @@
 # textarea
 
-Default `textarea` styles
+Default textarea styles
 
 ## Usage
 
