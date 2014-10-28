@@ -1,9 +1,13 @@
 # textarea
 
-Default `textarea` styles.
+Default `textarea` styles
 
 ## Usage
 
 ```stylus
 @require 'shoelace-ui-textarea'
 ```
+
+## License
+
+MIT
